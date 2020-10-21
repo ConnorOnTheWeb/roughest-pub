@@ -1,0 +1,18 @@
+/* RoughEst - Instant Estimate Calculator / Built By Inland Applications */
+
+.roughest-inputs {
+  width: 100%;
+}
+
+.roughest-display-none {
+  display: none;
+}
+#roughest-notes {
+  padding: 12px 0;
+}
+#roughest-notes p {
+  font-size: 0.8em;
+}
+.roughest-warning-text {
+  color: darkred !important;
+}
