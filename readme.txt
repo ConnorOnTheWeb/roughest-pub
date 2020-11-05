@@ -15,6 +15,8 @@ RoughEst Instant Estimate Calculator allows website visitors to easily and insta
 
 RoughEst Instant Estimate Calculator allows website visitors to easily and instantly calculate a rough price range estimate for your services.
 
+See the [official documentation and demo on InlandApp.com](https://inlandapp.com/custom-plugins/roughest/)
+
 This plugin adds two instant calculators to your widgets panel:
 
 ### 1. Cost Per Square Foot Calculator
