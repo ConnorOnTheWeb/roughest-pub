@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: connorontheweb
-Donate link: https://getrawmilk.com/tip
+Donate link: https://www.paypal.com/ncp/payment/8PVJBG68LN47N
 Tags: estimates, bidding, calculators, roughest, construction
 Requires at least: 4.7
-Tested up to: 6.5
+Tested up to: 6.7.1
 Stable tag: 4.3
 Requires PHP: 7.0
 License: GPLv2 or later
