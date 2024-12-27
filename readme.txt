@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 RoughEst Instant Estimate Calculator allows website visitors to easily and instantly calculate a rough price range estimate for your services.
 
 == Description ==
-`
+
 RoughEst Instant Estimate Calculator allows website visitors to easily and instantly calculate a rough price range estimate for your services.
 
 See the [official documentation and demo on InlandApp.com](https://inlandapp.com/custom-plugins/roughest/)
